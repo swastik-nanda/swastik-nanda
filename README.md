@@ -38,9 +38,8 @@ My Top Projects
 <div align="center">
 <p>An ML-powered application to predict crowd density during festivals, using XGBoost, Flask, and a live React dashboard to provide real-time alerts.</p>
 <p>
-<!-- Add your project links here -->
-<a href="https://www.google.com/search?q=https://github.com/swastik-nanda/Jaya-Jaga"><strong>GitHub Repo</strong></a> |
-<!-- <a href="YOUR-LIVE-DEMO-LINK"><strong>Live Demo</strong></a> -->
+<a href="https://www.google.com/search?q=https://github.com/swastik-nanda/Jaya-Jaga"><strong>GitHub Repo</strong></a>
+<!-- | <a href="YOUR-LIVE-DEMO-LINK"><strong>Live Demo</strong></a> -->
 </p>
 </div>
 </td>
@@ -49,9 +48,8 @@ My Top Projects
 <div align="center">
 <p>A secure, credit-based MERN stack AI image generator that integrates the Clipdrop API and Razorpay for a seamless user experience.</p>
 <p>
-<!-- Add your project links here -->
-<a href="https://www.google.com/search?q=https://github.com/swastik-nanda/Imagify-AI-text-To-Image-Generator"><strong>GitHub Repo</strong></a> |
-<!-- <a href="YOUR-LIVE-DEMO-LINK"><strong>Live Demo</strong></a> -->
+<a href="https://www.google.com/search?q=https://github.com/swastik-nanda/Imagify-AI-text-To-Image-Generator"><strong>GitHub Repo</strong></a>
+<!-- | <a href="YOUR-LIVE-DEMO-LINK"><strong>Live Demo</strong></a> -->
 </p>
 </div>
 </td>
@@ -62,9 +60,8 @@ My Top Projects
 <div align="center">
 <p>A full-stack web app (MERN + Flask) that uses a Machine Learning model to predict CAD risk based on user-inputted cardiac health data.</p>
 <p>
-<!-- Add your project links here -->
-<a href="https://www.google.com/search?q=https://github.com/swastik-nanda/CAD-Prediction-App"><strong>GitHub Repo</strong></a> |
-<!-- <a href="YOUR-LIVE-DEMO-LINK"><strong>Live Demo</strong></a> -->
+<a href="https://www.google.com/search?q=https://github.com/swastik-nanda/CAD-Prediction-App"><strong>GitHub Repo</strong></a>
+<!-- | <a href="YOUR-LIVE-DEMO-LINK"><strong>Live Demo</strong></a> -->
 </p>
 </div>
 </td>
