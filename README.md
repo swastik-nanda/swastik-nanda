@@ -5,7 +5,7 @@ Hi there, I'm Swastik Nanda 👋
 
 I'm a passionate and results-driven Full-Stack Developer specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js). I have a keen interest in leveraging Machine Learning to build intelligent, data-driven applications that solve real-world problems. I thrive in collaborative environments and enjoy turning complex ideas into secure, scalable, and user-friendly web solutions.
 
-🔭 I’m currently building secure and scalable web applications and enhancing my skills in cloud technologi.
+🔭 I’m currently building secure and scalable web applications and enhancing my skills in cloud technologies.
 🌱 I’m exploring AWS cloud services and advanced cybersecurity principles.
 💬 Ask me about React, Node.js, JavaScript, MongoDB, and Machine Learning integration.
 📫 How to reach me: [swastik2004nanda@gmail.com](mailto:swastik2004nanda@gmail.com)
