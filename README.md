@@ -3,7 +3,7 @@ Hi there, I'm Swastik Nanda 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swastik-nanda-837b35251/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swastik2004nanda@gmail.com)
 
-I'm a passionate and results-driven Full-Stack Developer specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js). I a keen interest in leveraging Machine Learning to build intelligent, data-driven applications that solve real-world problems. I thrive in collaborative environments and enjoy turning complex ideas into secure, scalable, and user-friendly web solutions.
+I'm a passionate and results-driven Full-Stack Developer specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js). I have a keen interest in leveraging Machine Learning to build intelligent, data-driven applications that solve real-world problems. I thrive in collaborative environments and enjoy turning complex ideas into secure, scalable, and user-friendly web solutions.
 
 🔭 I’m currently building secure and scalable web applications and enhancing my skills in cloud technologies.
 🌱 I’m exploring AWS cloud services and advanced cybersecurity principles.
