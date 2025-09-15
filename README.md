@@ -1,4 +1,4 @@
-Hi there, I'm Swastik Nanda 👋
+Hi there, I'm Swastik 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swastik-nanda-837b35251/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swastik2004nanda@gmail.com)
