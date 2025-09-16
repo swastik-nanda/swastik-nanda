@@ -32,7 +32,7 @@ I'm a passionate and results-driven Full-Stack Developer specializing in the MER
     <td width="50%">
       <h3 align="center">Jay Jaga | Crowd Intensity Prediction</h3>
       <div align="center">
-        <p>An ML-powered application to predict crowd density during festivals, using XGBoost, Flask, and a live React dashboard to provide real-time alerts.</p>
+        <p>An ML-powered application to predict crowd density during Rath Yatra, using XGBoost, Flask, and a live React dashboard to provide real-time alerts.</p>
         <p><a href="https://github.com/swastik-nanda/Jaya-Jaga"><strong>GitHub Repo</strong></a></p>
       </div>
     </td>
